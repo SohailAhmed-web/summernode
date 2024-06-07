@@ -2,10 +2,10 @@
   "name": "summernode",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server1.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node server1",
+    "dev": "nodemon server1"
   },
   "author": "",
   "license": "ISC",
